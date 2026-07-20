@@ -31,7 +31,6 @@ Senior Software Engineer with 20+ years of experience designing high-performance
 *   **Key Tasks:**
     *   Created technical specifications and requirement traceability in Enterprise Architect.
     *   Enforced Modern C++ (C++14) standards.
-    *   Integrated Clang-format and static analysis into the CI/CD pipeline.
     *   **Technologies:** C++14, GoogleTest, Visual Studio Enterprise.
 
 **KMX SYSTEMS** | Sibiu
