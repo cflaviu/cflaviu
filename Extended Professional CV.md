@@ -117,7 +117,7 @@ Senior Software Engineer with 20+ years of experience designing high-performance
 
 **SOFTLINE** | *Sibiu, Romania*
 
-**Junior C++ Software Engineer** | *2005*
+**Junior C++ Software Engineer** | *2005* (3 months)
 *   **Client: A.R.C. Laser:** Developed a prototype UI for the "Pharo" cataract surgery device using Borland VCL.
 *   **Client: SAZ Marketing:** Created a C# wrapper for legacy C++ libraries and implemented a wildcard search algorithm for a data grid view.
 
