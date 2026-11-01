@@ -37,7 +37,7 @@ Senior Software Engineer with 20+ years of experience designing high-performance
 
 **Principal Software Engineer** | *2023 – present*
 *   Creator of **KMX Ecosystem**, architected and developed a suite of modular C++ libraries including:
-    *   **kmx-aio:** High-performance asynchronous I/O engine based on epoll.
+    *   **kmx-aio:** High-performance asynchronous I/O engine based on epoll and io-uring.
     *   **kmx-geoindex:** High-performance spatial indexing library implementing hexagonal grid systems for efficient geospatial data querying.
     *   **kmx-asn1-ber-encoding & kmx-mib-parser:** Partial compiler stack for telecommunication protocols (ANTLR4-based).
     *   **kmx-unit:** Type-safe dimensional analysis library for physics/engineering safety.
